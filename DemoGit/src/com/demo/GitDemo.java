@@ -2,9 +2,9 @@ package com.demo;
 
 public class GitDemo 
 {
-	public void m1()
+	public void add()
 	{ 
-		System.out.println(String[] args)
+		System.out.println("this is add method");
 	}
 	
 	public static void main(String[] args)
